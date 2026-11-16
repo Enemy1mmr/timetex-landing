@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/*.map
+Host: timetex-opt.ru
+Sitemap: https://timetex-opt.ru/sitemap.xml
